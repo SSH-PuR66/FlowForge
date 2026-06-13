@@ -91,3 +91,6 @@ npm install
 
 # 4. Run local development server
 npm run dev
+
+The local development server should be available at:
+http://localhost:3000
