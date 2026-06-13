@@ -78,3 +78,16 @@ The official website is deployed through GitHub Pages:
 
 ```txt
 https://ssh-pur66.github.io/FlowForge/
+
+
+# 1. Clone the repository
+git clone https://github.com/SSH-PuR66/FlowForge.git
+
+# 2. Move into the project folder
+cd FlowForge
+
+# 3. Install dependencies
+npm install
+
+# 4. Run local development server
+npm run dev
